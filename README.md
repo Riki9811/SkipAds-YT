@@ -63,6 +63,14 @@ And you're done! You can exit developer mode if you want now.
 
 ## Changelog
 
+### v2.0
+
+Fixed known issue with ads that show app download at the end. You'll just have to press the keybind one more time to close them.
+
+No known issues.
+<br/>
+<br/>
+
 ### v1.0
 
 First version of the extension.
